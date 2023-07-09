@@ -1,0 +1,4 @@
+Node: runtime enviroment it doeswork on server, runs on server not in a browser
+ --> is global object instead of window object
+ -->has common core modules(related to file systems n more)
+ -->commonJS modules instead of Es6 modules
